@@ -4,6 +4,7 @@
 
 .center img {
     display: block; /* Rendre l'image un élément de bloc */
+    border-radius: 100%;
     margin: 0 auto; /* Centrer horizontalement l'image en utilisant des marges automatiques */
 }
 

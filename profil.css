@@ -6,9 +6,9 @@ body, h1, h2, h3, p, a {
 
 /* Style pour le conteneur principal */
 .profil {
-    max-width: 800px;
-    margin: 50px auto;
-    padding: 20px;
+    max-width: 100%;
+    margin: 2% auto;
+    padding: 0%;
     background-color: #f9f9f9;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -36,8 +36,14 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Style pour les paragraphes */
-p {
+.description{
     line-height: 1.6;
     margin-bottom: 15px;
+    text-align: center;
+    
+}
+.icon{
+    width: 50px;
+    margin-right: 20px;
+    text-align: center;
 }
