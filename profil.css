@@ -1,0 +1,43 @@
+/* Reset des styles par défaut */
+body, h1, h2, h3, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style pour le conteneur principal */
+.profil {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style pour les années */
+.year {
+    margin-bottom: 20px;
+}
+
+/* Style pour les titres des années */
+.year h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Style pour les liens */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Style pour les paragraphes */
+p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}

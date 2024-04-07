@@ -1,0 +1,48 @@
+<section id="about">
+    <h2>About Me</h2>
+    <p>Data Science Enthusiast & Aspiring Machine Learning Engineer</p>
+    <p>Passionate about harnessing the power of data to drive insights and innovation</p>
+    <img src="data_science_image.jpg" alt="Data Science" width="200" height="200">
+    <h3><i>Hello, I'm [Your Name]</i></h3>
+    <p>As a student at [Name of your school or university], I am deeply fascinated by the potential of data science and machine learning to transform industries and solve complex problems. My journey into this field has been marked by curiosity, exploration, and a relentless pursuit of knowledge.</p>
+    <p>I have been actively involved in various data-related projects, from exploratory data analysis to predictive modeling. My goal is to leverage my skills in programming, statistics, and domain knowledge to make meaningful contributions in the field of data science.</p>
+    <p>Whether it's diving into the depths of data to uncover hidden patterns or building machine learning models to predict future trends, I am driven by a passion for discovery and a desire to make a positive impact through data-driven decision making.</p>
+    <p>I am constantly learning and growing in this dynamic field, and I am excited about the opportunities that lie ahead on my journey to becoming a proficient data scientist and machine learning engineer.</p>
+</section>
+
+<section id="projects">
+    <h2>My Projects</h2>
+    <div class="project">
+        <h3>Project 1</h3>
+        <p>Description of Project 1 related to Data Science or Machine Learning.</p>
+        <a href="./project1.html">show details</a>
+    </div>
+    <div class="project">
+        <h3>Project 2</h3>
+        <p>Description of Project 2 related to Data Science or Machine Learning.</p>
+        <a href="./project2.html">show details</a>
+    </div>
+</section>
+
+<section id="skills">
+    <h2>My Skills</h2>
+    <ul>
+        <li></li>
+        <li>Machine Learning</li>
+        <li>Python</li>
+        <li>Statistics</li>
+        <!-- Add other relevant skills -->
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Feel free to contact me to discuss your projects or for any other inquiries!</p>
+    <a href="mailto:your@email.com">Send an email</a>
+</section>
+
+<footer>
+    <p>&copy; 2024 [Your Name] - All rights reserved</p>
+</footer>
+</body>
+</html>

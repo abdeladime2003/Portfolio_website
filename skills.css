@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eed6d6;
+}
+
+.skills {
+    max-width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+h2 {
+    color: #a31c1c;
+    text-align: center;
+}
+
+.skill {
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.icon {
+    width: 50px;
+    margin-right: 20px;
+}
+
+.skill p {
+    color: #5a4949;
+    font-size: 16px;
+    margin: 0;
+}
+
+strong {
+    color: #000000;
+    font-weight: bold;
+}
+legend{
+    text-align: center;
+    color: #594c4c;
+}
